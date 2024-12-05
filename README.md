@@ -6,7 +6,7 @@ I'm a Master's student in Bioinformatics at the University of Bologna, with a st
 
 ⚡ **Interests**: Merging biology with computational methods to tackle complex biological challenges.
 
-🌱 **Current Focus**: Applying machine learning to DNA sequence classification, genomic analysis, and multi-omics data integration.
+🌱 **Current Focus**: Applying machine learning to DNA or protein sequence classification, genomic analysis, and multi-omics data integration.
 
 🔎 **Research Interests**: Deep learning, trustworthy AI in genomics, and the application of large language models in biology.
 
@@ -38,10 +38,8 @@ I'm a Master's student in Bioinformatics at the University of Bologna, with a st
 ![MEGA11](https://img.shields.io/badge/MEGA11-%238CAAE6.svg?style=for-the-badge&logo=MEGA&logoColor=white)
 ![EndNote](https://img.shields.io/badge/EndNote-%2334A853.svg?style=for-the-badge&logo=EndNote&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ---
 
@@ -61,4 +59,4 @@ I'm a Master's student in Bioinformatics at the University of Bologna, with a st
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/erfan-zohrabi/) or explore my projects on [GitHub](https://github.com/erfanzohrabi). Let's collaborate and drive innovation together!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/erfan-zohrabi/) or explore my projects on [GitHub]([https://github.com/erfanzohrabi](https://github.com/ErfanZohrabi?tab=repositories)). Let's collaborate and drive innovation together!
