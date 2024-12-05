@@ -59,4 +59,4 @@ I'm a Master's student in Bioinformatics at the University of Bologna, with a st
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/erfan-zohrabi/) or explore my projects on [GitHub]([https://github.com/erfanzohrabi](https://github.com/ErfanZohrabi?tab=repositories)). Let's collaborate and drive innovation together!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/erfan-zohrabi/) or explore my projects on [GitHub](https://github.com/ErfanZohrabi?tab=repositories/). Let's collaborate and drive innovation together!
