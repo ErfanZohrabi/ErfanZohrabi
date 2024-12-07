@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi there, I'm Erfan Zohrabi 👋
 
 I'm a Master's student in Bioinformatics at the University of Bologna, with a strong foundation in Cellular and Molecular Biology. My passion lies in integrating computational techniques with biological research to uncover new insights and drive innovation.
